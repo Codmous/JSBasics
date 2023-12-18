@@ -1,6 +1,6 @@
+var x = 10;
 function example(){
     if(true){
-        var x = 10;
         console.log(x);
     }
     console.log(x);
